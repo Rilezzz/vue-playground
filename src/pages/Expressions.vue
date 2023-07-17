@@ -77,7 +77,13 @@ document.getElementById('player').innerHTML = html;</code></pre>
           then move on to the next section.
         </p>
       </div>
-      <exercise></exercise>
+      <exercise>
+        <div>
+          <span>
+         
+          </span>
+          </div>
+        </exercise>
     </div>
   </div>
 </template>

@@ -154,7 +154,7 @@ export default {
       val: "{{ }}",
       val2: "{{ state.myName }}",
       val3: "{{ state.message }}",
-      message: "Hello World!",
+      message: "Hi",
       myName: "Type your name here",
     });
 
